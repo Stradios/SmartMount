@@ -1,6 +1,6 @@
 # SmartMount – WoW 3.3.5a (WotLK)
 
-<img src="hsmartmount-demo.webp" alt="SmartMount – WoW 3.3.5a (WotLK) V2" width="350">
+<img src="https://raw.githubusercontent.com/Stradios/SmartMount/refs/heads/main/smartmount-demo.webp" alt="SmartMount – WoW 3.3.5a (WotLK) V2" width="350">
 
 **One button. One macro. Always the right mount.**
 
