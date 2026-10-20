@@ -27,7 +27,7 @@ You can trigger it three ways:
 
 ## Installation
 
-1. Download or `git clone` this repo.
+1. Download [SmartMount.zip](https://github.com/Stradios/SmartMount/releases/download/V2.2/SmartMount.zip)
 2. Copy the `SmartMount` folder into:
    `World of Warcraft\Interface\AddOns\SmartMount\`
 
