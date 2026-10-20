@@ -115,10 +115,5 @@ Settings persist per-account in `SavedVariables: SmartMountDB` (button position/
 
 ---
 
-## License
-
-<<<<<<< HEAD
+## License 
 Copyright © Stradios 2026. All rights reserved.
-=======
-Copyright © Stradios 2026. All rights reserved.
->>>>>>> 9ed855a70e4bf9060320809e9562bbc21fb39374
