@@ -1,6 +1,6 @@
 # SmartMount – WoW 3.3.5a (WotLK)
 
-<video src="https://raw.githubusercontent.com/Stradios/Nort-sun-esentials/refs/heads/main/smartmount-demo.webm" width="600" controls></video>
+<img src="https://raw.githubusercontent.com/Stradios/SmartMount/refs/heads/main/smartmount-demo.webp" alt="SmartMount – WoW 3.3.5a (WotLK) V2" width="350">
 
 **One button. One macro. Always the right mount.**
 
@@ -117,4 +117,4 @@ Settings persist per-account in `SavedVariables: SmartMountDB` (button position/
 
 ## License
 
-Copyright © Stradios 2026. All rights reserved.****
+Copyright © Stradios 2026. All rights reserved.
